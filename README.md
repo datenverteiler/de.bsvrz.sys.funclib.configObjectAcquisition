@@ -1,4 +1,4 @@
-de.bsvrz.sys.funclib.configObjectAcquisition v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.configObjectAcquisition.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.configObjectAcquisition)
+de.bsvrz.sys.funclib.configObjectAcquisition v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.configObjectAcquisition.svg?branch=master)](https://travis-ci.org/datenverteiler/de.bsvrz.sys.funclib.configObjectAcquisition)
 ====================================================
 
 
